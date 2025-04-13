@@ -15,7 +15,7 @@
         <ul class="nav-links" id="nav-links">
             <li><a href="index.php">Beranda</a></li>
             <li><a href="kontak.php">Kontak</a></li>
-            <li><a href="legalisir.php">Legalisir</a></li>
+            <li><a href="formulir.php">Formulir</a></li>
             <li><a href="admin/index.php">Admin</a></li>
         </ul>
     </nav>
